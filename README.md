@@ -2,8 +2,6 @@
 
 ### Founder | Data Scientist | Financial Strategist | Systems Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAIQ-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="TheAIQ-Dev" /> </p>
-
 - 🔭 I'm currently working on **Windows and SAAS based programs**
 - 🌱 I'm currently learning **HTML5, Python and SQL**
 - 👯 I'm looking to collaborate on **projects for a good cause**
@@ -11,8 +9,6 @@
 - 📫 How to reach me **aliimranqadri@outlook.com**
 - ⚡ Fun fact **I love playing high end games and working out!**
 - 👨‍💻 All of my projects are available at **[https://www.fifthinsights.com](https://www.fifthinsights.com)**
-
----
 
 ### Connect with me:
 <p align="left">
@@ -29,9 +25,9 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
 </p>
 
----
-
 ### GitHub Stats:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=TheAIQ-Dev&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAIQ-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="TheAIQ-Dev" /> </p>
