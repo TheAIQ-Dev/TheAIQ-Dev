@@ -1,4 +1,4 @@
-# Hi 👋 I am Ali Imran
+# 👋 Hi, I am Ali Imran
 
 ### Founder | Data Scientist | Financial Strategist | Systems Developer
 
@@ -26,8 +26,4 @@
 </p>
 
 ### GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TheAIQ-Dev&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheAIQ-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="TheAIQ-Dev" /> </p>
