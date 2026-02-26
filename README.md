@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ali Imran
+# Hi 👋 I am Ali Imran
 
 ### Founder | Data Scientist | Financial Strategist | Systems Developer
 
