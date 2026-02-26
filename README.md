@@ -1,6 +1,6 @@
-# 👋 Hi, I am Ali Imran
+# 👋 Hi, I'm Ali Imran
 
-### Founder | Data Scientist | Financial Strategist | Systems Developer
+### A Founder, Data Scientist, Financial Strategist & Systems Developer
 
 - 🔭 I'm currently working on **Windows and SAAS based programs**
 - 🌱 I'm currently learning **HTML5, Python and SQL**
