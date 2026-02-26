@@ -27,7 +27,11 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-  <a href="https://github.com/TomSchimansky/CustomTkinter" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CustomTkinter-2c3e50?style=for-the-badge&logo=python&logoColor=3776AB" alt="customtkinter" height="40"/>
-  </a>
+</p>
+
+---
+
+### GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TheAIQ-Dev&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
 </p>
