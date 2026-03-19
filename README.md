@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning **HTML5, Python and SQL**
 - 👯 I'm looking to collaborate on **projects for a good cause**
 - 💬 Ask me about **Windows programs, Web development and Android applications**
-- 📫 How to reach me **connect.aliimran@gmail.com**
+- 📫 How to reach me **aliimranqadri@outlook.com**
 - ⚡ Fun fact **I love playing high end games and working out!**
 - 👨‍💻 All of my projects are available at **[https://www.fifthinsights.com](https://www.fifthinsights.com)**
 
